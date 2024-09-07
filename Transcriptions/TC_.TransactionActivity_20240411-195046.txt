@@ -1,0 +1,11 @@
+The provided test case is for the TransactionActivity screen of the BudgetWatch application. It includes the following actions:
+
+1. Clicked on the "Search" ImageView button with the ID "search_button".
+2. Clicked on the "Search…" AutoCompleteTextView with the ID "search_src_text".
+3. Clicked on the "Expenses" tab in the ActionBar.
+4. Long-clicked on the center of the "Search…" AutoCompleteTextView.
+5. Scrolled down the ViewPager with the ID "pager".
+
+The test case execution also includes screenshots of each action performed on the TransactionActivity screen.
+
+If you need further assistance or have any specific questions regarding this test case, feel free to ask!

@@ -1,0 +1,10 @@
+The provided test case is for the IntroActivity screen of the Budget Watch application. It includes the following actions:
+
+1. Scrolled left on the ViewPager with the ID "view_pager" to navigate through the introductory pages.
+2. Clicked on the "SKIP" button to skip the introductory pages and proceed to the main activity.
+3. Long-clicked on the center of the "More options" ImageView to open a context menu.
+4. Proceeded to the next activity, which is "protect.budgetwatch/.MainActivity".
+
+The test case execution also includes screenshots of each action performed on the IntroActivity screen.
+
+If you need further assistance or have any specific questions, feel free to ask!

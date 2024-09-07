@@ -1,0 +1,5 @@
+Test Case home
+
+clicked  android.widget.LinearLayout    bounds:[0,332][1440,561]  Screen: states/state_20240415-113149.png
+
+Go to next activity: protect.budgetwatch/.TransactionActivity

@@ -1,0 +1,5 @@
+The provided test case involves the following action:
+1. Clicked on the "Settings" TextView in the home screen of the Budget Watch application.
+2. Proceeded to the next activity, which is "protect.budgetwatch/.MainActivity".
+
+If you need further assistance or want to add more details to the test case, please feel free to ask!

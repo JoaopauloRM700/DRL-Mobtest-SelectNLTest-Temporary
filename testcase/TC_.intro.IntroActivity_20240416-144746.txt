@@ -1,0 +1,17 @@
+Test Case protect.budgetwatch/.intro.IntroActivity
+
+scroll up android.support.v4.view.ViewPager protect.budgetwatch:id/view_pager   bounds:[0,136][1440,2816]  Screen: states/state_20240416-144748.png
+
+scroll left android.support.v4.view.ViewPager protect.budgetwatch:id/view_pager   bounds:[0,136][1440,2816]  Screen: states/state_20240416-144756.png
+
+scroll down android.support.v4.view.ViewPager protect.budgetwatch:id/view_pager   bounds:[0,136][1440,2816]  Screen: states/state_20240416-144800.png
+
+clicked  android.widget.ImageButton protect.budgetwatch:id/next   bounds:[1062,2897][1412,3120]  Screen: states/state_20240416-144804.png
+
+clicked  android.widget.Button protect.budgetwatch:id/skip  SKIP bounds:[28,2897][378,3120]  Screen: states/state_20240416-144810.png
+
+scroll right android.support.v4.view.ViewPager protect.budgetwatch:id/view_pager   bounds:[0,136][1440,2816]  Screen: states/state_20240416-144812.png
+
+Home activity  Screen: states/state_20240416-144817.png
+
+Go to next activity: protect.budgetwatch/.MainActivity

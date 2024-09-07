@@ -1,0 +1,10 @@
+Test Case ID: TC_home_20240411-191913
+Test Case: Clicking on the "Settings" TextView in the Budget Watch application's home screen.
+Preconditions: 
+1. The Budget Watch application is installed.
+2. The user is on the home screen of the Budget Watch application.
+Test Steps:
+1. Clicked on the "Settings" TextView with the bounds [721,73][848,199].
+2. Proceeded to the next activity, which is "protect.budgetwatch/.SettingsActivity".
+Result: The "Settings" screen of the Budget Watch application should be displayed.
+Screenshots: states/state_20240411-191913.png

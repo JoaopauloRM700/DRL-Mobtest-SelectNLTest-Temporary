@@ -1,0 +1,4 @@
+The provided test case is for the "Settings" option in the Budget Watch application. It includes the following action:
+1. Clicked on the "Settings" TextView item.
+After clicking on the "Settings" option, the test case proceeds to the next activity, which is "protect.budgetwatch/.SettingsActivity".
+If you need further assistance, feel free to ask!

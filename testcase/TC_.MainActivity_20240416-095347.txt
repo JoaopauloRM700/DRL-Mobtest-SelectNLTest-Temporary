@@ -1,0 +1,35 @@
+Test Case protect.budgetwatch/.MainActivity
+
+Home activity  Screen: states/state_20240416-095349.png
+
+Home activity  Screen: states/state_20240416-095352.png
+
+Home activity  Screen: states/state_20240416-095355.png
+
+Home activity  Screen: states/state_20240416-095357.png
+
+Home activity  Screen: states/state_20240416-095400.png
+
+Home activity  Screen: states/state_20240416-095402.png
+
+Home activity  Screen: states/state_20240416-095405.png
+
+Rotate right Pressed  Screen: states/state_20240416-095407.png
+
+Home activity  Screen: states/state_20240416-095412.png
+
+Home activity  Screen: states/state_20240416-095416.png
+
+Home activity  Screen: states/state_20240416-095420.png
+
+Home activity  Screen: states/state_20240416-095424.png
+
+Home activity  Screen: states/state_20240416-095428.png
+
+Home activity  Screen: states/state_20240416-095432.png
+
+Home activity  Screen: states/state_20240416-095438.png
+
+Home activity  Screen: states/state_20240416-095441.png
+
+Home activity  Screen: states/state_20240416-095445.png

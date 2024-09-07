@@ -1,0 +1,11 @@
+Test Case protect.budgetwatch/.TransactionActivity
+
+clicked  android.widget.ImageView protect.budgetwatch:id/search_button Search  bounds:[964,150][1132,318]  Screen: states/state_20240411-195049.png
+
+clicked  android.widget.AutoCompleteTextView protect.budgetwatch:id/search_src_text  Search… bounds:[280,171][1204,297]  Screen: states/state_20240411-195057.png
+
+clicked  android.support.v7.app.ActionBar$Tab  Expenses  bounds:[0,332][720,500]  Screen: states/state_20240411-195108.png
+
+long click center android.widget.AutoCompleteTextView protect.budgetwatch:id/search_src_text  Search… bounds:[280,171][1204,297]  Screen: states/state_20240411-195118.png
+
+scroll down android.support.v4.view.ViewPager protect.budgetwatch:id/pager   bounds:[0,500][1440,2816]  Screen: states/state_20240411-195128.png

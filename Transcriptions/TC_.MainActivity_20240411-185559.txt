@@ -1,0 +1,8 @@
+The provided test case is for the MainActivity screen of the Budget Watch application. It includes the following actions:
+
+1. Clicked on the "More options" ImageView located at the bounds [969,77][1080,209].
+2. Clicked on a LinearLayout located at the bounds [530,77][1069,209].
+
+The test case execution also includes screenshots of each action performed on the MainActivity screen.
+
+If you need further assistance, feel free to ask!

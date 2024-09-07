@@ -1,0 +1,13 @@
+Test Case ID: TC_intro.IntroActivity_20240411-113752
+Test Case: protect.budgetwatch/.intro.IntroActivity
+Description: Verify the ability to scroll right on the ViewPager in the IntroActivity screen of the Budget Watch application.
+Preconditions:
+1. The Budget Watch application is installed and opened.
+2. The user is on the IntroActivity screen.
+Test Steps:
+1. Scroll right on the ViewPager with the ID "view_pager".
+Expected Result: The ViewPager should scroll to the right, displaying the next content or screen.
+Result:
+A screenshot of the state after the scroll action is performed is captured and saved as "states/state_20240411-113752.png".
+
+Note: This test case verifies the scroll functionality of the ViewPager in the IntroActivity screen of the Budget Watch application.

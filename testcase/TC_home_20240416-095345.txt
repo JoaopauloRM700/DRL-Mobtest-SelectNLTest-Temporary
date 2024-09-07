@@ -1,0 +1,7 @@
+Test Case home
+
+Home activity  Screen: states/state_20240416-095347.png
+
+Got Error, see errors/error_20240416-095347.txt
+
+Go to next activity: protect.budgetwatch/.MainActivity

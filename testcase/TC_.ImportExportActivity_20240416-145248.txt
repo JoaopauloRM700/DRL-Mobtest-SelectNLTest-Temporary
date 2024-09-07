@@ -1,0 +1,25 @@
+Test Case protect.budgetwatch/.ImportExportActivity
+
+scroll right android.widget.ScrollView    bounds:[0,332][1440,2816]  Screen: states/state_20240416-145250.png
+
+long click center android.widget.Spinner protect.budgetwatch:id/importFileFormatSpinner   bounds:[359,3113][1384,3120]  Screen: states/state_20240416-145309.png
+
+clicked  android.widget.Spinner protect.budgetwatch:id/exportFileFormatSpinner   bounds:[359,944][1384,1028]  Screen: states/state_20240416-145329.png  Screen: states/state_20240416-145333.png
+
+clicked  android.widget.CheckedTextView android:id/text1  JSON bounds:[429,1112][1314,1280]  Screen: states/state_20240416-145350.png
+
+clicked  android.widget.Button protect.budgetwatch:id/importOptionFilesystemButton  FROM FILESYSTEM bounds:[56,1859][1384,2027]  Screen: states/state_20240416-145359.png
+
+scroll down android.widget.Spinner protect.budgetwatch:id/exportFileFormatSpinner   bounds:[359,944][1384,1028]  Screen: states/state_20240416-145402.png
+
+scroll down android.widget.ScrollView    bounds:[0,332][1440,2816]  Screen: states/state_20240416-145425.png
+
+scroll right android.widget.Spinner protect.budgetwatch:id/exportFileFormatSpinner   bounds:[359,944][1384,1028]  Screen: states/state_20240416-145435.png
+
+long click center android.widget.Spinner protect.budgetwatch:id/exportFileFormatSpinner   bounds:[359,944][1384,1028]  Screen: states/state_20240416-145449.png
+
+clicked  android.widget.Spinner protect.budgetwatch:id/importFileFormatSpinner   bounds:[359,3113][1384,3120]  Screen: states/state_20240416-145503.png  Screen: states/state_20240416-145509.png  Screen: states/state_20240416-145518.png  Screen: states/state_20240416-145524.png
+
+clicked  android.widget.CheckedTextView android:id/text1  Zip bounds:[429,2945][1314,3113]  Screen: states/state_20240416-145534.png
+
+clicked  android.widget.CheckedTextView android:id/text1  CSV bounds:[429,2609][1314,2777]  Screen: states/state_20240416-145545.png

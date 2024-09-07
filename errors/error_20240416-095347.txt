@@ -1,0 +1,2 @@
+04-16 09:52:44.574   550 17831 E ActivityManager:   21% 26757/protect.budgetwatch: 0.5% user + 21% kernel / faults: 520 minor 2 major
+04-16 09:52:44.574   550 17831 E ActivityManager:   4.4% 26757/protect.budgetwatch: 0% user + 4.4% kernel

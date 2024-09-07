@@ -1,0 +1,4 @@
+The provided test case involves the MainActivity screen of the Budget Watch application. It includes the following action:
+1. Clicked on the "Import/Export" TextView item.
+The test case execution also includes a screenshot of the action performed on the MainActivity screen.
+If you need further assistance or want to add more test steps, feel free to ask!

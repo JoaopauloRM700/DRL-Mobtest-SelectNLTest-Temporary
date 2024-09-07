@@ -1,0 +1,11 @@
+The provided test case is for the IntroActivity screen of the Budgetwatch application. It includes the following actions:
+1. Scrolled up on the ViewPager with the ID "view_pager".
+2. Scrolled left on the ViewPager with the ID "view_pager".
+3. Scrolled down on the ViewPager with the ID "view_pager".
+4. Clicked on the "Next" ImageButton with the ID "next".
+5. Clicked on the "Skip" Button with the ID "skip".
+6. Scrolled right on the ViewPager with the ID "view_pager".
+7. Navigated to the Home activity.
+8. Proceeded to the next activity, which is "protect.budgetwatch/.MainActivity".
+The test case execution also includes screenshots of each action performed on the IntroActivity screen.
+If you need further assistance, feel free to ask!

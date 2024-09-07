@@ -1,0 +1,7 @@
+Test Case protect.budgetwatch/.ImportExportActivity
+
+scroll down android.widget.Spinner protect.budgetwatch:id/exportFileFormatSpinner   bounds:[268,669][1038,732]  Screen: states/state_20240411-191920.png
+
+clicked  android.widget.Button protect.budgetwatch:id/importOptionFilesystemButton  FROM FILESYSTEM bounds:[42,1354][1038,1480]  Screen: states/state_20240411-191924.png
+
+Go to next activity: protect.budgetwatch/.MainActivity

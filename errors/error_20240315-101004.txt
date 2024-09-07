@@ -1,0 +1,4 @@
+03-15 10:10:03.109   552  5171 E ActivityManager: ANR in protect.budgetwatch (protect.budgetwatch/.MainActivity)
+03-15 10:10:03.109   552  5171 E ActivityManager: Parent: protect.budgetwatch/.MainActivity
+03-15 10:10:03.109   552  5171 E ActivityManager:  +0% 4469/protect.budgetwatch: 0% user + 0% kernel
+03-15 10:10:03.109   552  5171 E ActivityManager:   4.8% 4469/protect.budgetwatch: 0% user + 4.8% kernel / faults: 31 minor 9 major

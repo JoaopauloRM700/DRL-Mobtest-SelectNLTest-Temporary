@@ -1,0 +1,3 @@
+This test case seems to be for transitioning from the home screen to the TransactionActivity in the BudgetWatch application. The action performed is clicking on a LinearLayout on the home screen, and the expected behavior is to navigate to the TransactionActivity.
+
+If you need further assistance, feel free to ask!

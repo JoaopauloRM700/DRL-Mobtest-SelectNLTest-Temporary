@@ -1,0 +1,5 @@
+Test Case home
+
+long click center android.widget.ImageView  More options  bounds:[969,77][1080,209]  Screen: states/state_20240625-202901.png
+
+Go to next activity: protect.budgetwatch/.MainActivity

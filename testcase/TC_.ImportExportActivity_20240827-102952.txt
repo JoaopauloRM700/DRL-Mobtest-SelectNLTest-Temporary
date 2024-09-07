@@ -1,0 +1,3 @@
+Test Case protect.budgetwatch/.ImportExportActivity
+
+long click center android.widget.Spinner protect.budgetwatch:id/exportFileFormatSpinner   bounds:[359,944][1384,1028]  Screen: states/state_20240827-102958.png

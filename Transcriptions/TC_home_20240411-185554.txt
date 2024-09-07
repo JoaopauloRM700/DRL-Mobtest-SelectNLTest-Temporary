@@ -1,0 +1,3 @@
+It seems like you are providing a test case for an action performed on the "home" screen of an application. The action involves clicking on a TextView with the text "Import/Export" which leads to the "ImportExportActivity" screen.
+
+If you need further assistance or have more test cases to discuss, feel free to ask!

@@ -1,0 +1,3 @@
+Test Case home
+
+clicked  android.widget.TextView protect.budgetwatch:id/action_import_export Import/Export  bounds:[1132,150][1300,318]  Screen: states/state_20240416-145925.png

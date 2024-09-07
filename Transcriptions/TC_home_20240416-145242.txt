@@ -1,0 +1,3 @@
+It seems like you are trying to create a test case for an action on the home screen of an application. The action you have described is clicking on the "Import/Export" TextView, and then proceeding to the "ImportExportActivity" screen.
+
+If you need further assistance or want to create more test cases, please let me know.

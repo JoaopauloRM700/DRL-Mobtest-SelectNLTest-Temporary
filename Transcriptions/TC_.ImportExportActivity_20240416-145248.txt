@@ -1,0 +1,19 @@
+The provided test case is for the ImportExportActivity screen of the BudgetWatch application. It includes a series of actions performed on the screen, along with the corresponding screenshots for each action. The actions include scrolling, long-clicking, and clicking on various elements such as Spinners, CheckedTextViews, and Buttons.
+
+The test case involves the following steps:
+1. Scrolled right on the ScrollView.
+2. Long-clicked on the center of the "importFileFormatSpinner" Spinner.
+3. Clicked on the "exportFileFormatSpinner" Spinner.
+4. Clicked on a CheckedTextView item with the text "JSON".
+5. Clicked on the "importOptionFilesystemButton" Button.
+6. Scrolled down on the "exportFileFormatSpinner" Spinner.
+7. Scrolled down on the ScrollView.
+8. Scrolled right on the "exportFileFormatSpinner" Spinner.
+9. Long-clicked on the center of the "exportFileFormatSpinner" Spinner.
+10. Clicked on the "importFileFormatSpinner" Spinner.
+11. Clicked on a CheckedTextView item with the text "Zip".
+12. Clicked on a CheckedTextView item with the text "CSV".
+
+The test case execution also includes screenshots of each action performed on the ImportExportActivity screen.
+
+If you need further assistance or have any specific questions, feel free to ask!

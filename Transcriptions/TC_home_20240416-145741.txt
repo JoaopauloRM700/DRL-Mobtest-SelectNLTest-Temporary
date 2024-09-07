@@ -1,0 +1,3 @@
+It seems like you have provided a test case for an action performed on the Budget Watch application. The action involves clicking on the "Import/Export" TextView, and then proceeding to the next activity, which is the MainActivity of the Budget Watch application.
+
+If you need further assistance or want me to perform any specific action, please let me know!

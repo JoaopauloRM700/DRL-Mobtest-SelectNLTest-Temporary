@@ -1,0 +1,13 @@
+Test Case ID: TC_importexport_20240411-191924
+Test Case: protect.budgetwatch/.ImportExportActivity
+Description: Perform actions on the ImportExportActivity screen of the BudgetWatch application.
+Preconditions:
+1. The BudgetWatch application is installed and accessible.
+2. The user is on the ImportExportActivity screen.
+Test Steps:
+1. Scrolled down to the "exportFileFormatSpinner" Spinner.
+2. Clicked on the "importOptionFilesystemButton" Button with the text "FROM FILESYSTEM".
+3. Proceeded to the next activity, which is "protect.budgetwatch/.MainActivity".
+Results:
+State 1: states/state_20240411-191920.png
+State 2: states/state_20240411-191924.png

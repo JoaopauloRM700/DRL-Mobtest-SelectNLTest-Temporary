@@ -1,0 +1,13 @@
+Test Case ID: TC_MainActivity_20240411-191925
+Test Case: protect.budgetwatch/.MainActivity
+Description: Verify the functionality of accessing settings from the MainActivity screen in the Budget Watch application.
+Preconditions:
+1. The Budget Watch application is installed.
+2. The user is on the MainActivity screen.
+Test Steps:
+1. Clicked on the "Settings" TextView item with the ID "action_settings".
+2. Proceeded to the next activity, which is "protect.budgetwatch/.SettingsActivity".
+Result: The SettingsActivity screen should be displayed after clicking on the "Settings" option.
+Screenshots: 
+- Screen: states/state_20240411-191925.png
+If you need further assistance, feel free to ask!

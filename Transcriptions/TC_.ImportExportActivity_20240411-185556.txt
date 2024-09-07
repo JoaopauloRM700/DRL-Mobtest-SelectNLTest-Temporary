@@ -1,0 +1,5 @@
+The provided test case is for the ImportExportActivity screen of the Budgetwatch application. It includes the following action:
+1. Clicked on the "Import from Filesystem" button.
+After this action, the test case proceeds to the next activity, which is "protect.budgetwatch/.MainActivity".
+
+If you need further assistance or have additional test cases, feel free to ask!

@@ -1,0 +1,3 @@
+03-15 09:14:41.623   532  1127 E PackageManager: Unknown package: protect.budgetwatch
+03-15 09:14:41.653   532  1127 E PackageManager: Unknown package: protect.budgetwatch
+03-15 09:15:02.590   532   602 E VerityUtils: Failed to measure fs-verity, errno 1: /data/app/~~CZaQNrdByEWtgX-FGdAbNg==/protect.budgetwatch-mhI0vluFV50KrRuRtfHqhg==/base.apk

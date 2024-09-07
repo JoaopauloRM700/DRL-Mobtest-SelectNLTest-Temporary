@@ -1,0 +1,12 @@
+Test Case ID: TC_protect.budgetwatch.MainActivity_20240416-095750
+Test Case protect.budgetwatch/.MainActivity
+Description: Perform actions on the MainActivity screen of the Budget Watch application.
+Preconditions: 
+1- Have Budget Watch installed. 
+2- Being on the MainActivity screen.
+Test Steps: 
+1- Clicked on the LinearLayout with the given bounds. 
+2- Long-clicked on the center of the ImageView with the text "More options" and the given bounds. 
+Result obtained: 
+State 1: states/state_20240416-095750.png 
+State 2: states/state_20240416-095757.png

@@ -1,0 +1,9 @@
+Test Case protect.budgetwatch/.MainActivity
+
+clicked  android.widget.TextView protect.budgetwatch:id/action_settings Settings  bounds:[964,150][1132,318]  Screen: states/state_20240416-144722.png
+
+clicked  android.widget.LinearLayout    bounds:[0,332][1440,561]  Screen: states/state_20240416-144732.png
+
+clicked  android.widget.LinearLayout    bounds:[740,150][1426,318]  Screen: states/state_20240416-144735.png
+
+Go to next activity: protect.budgetwatch/.intro.IntroActivity

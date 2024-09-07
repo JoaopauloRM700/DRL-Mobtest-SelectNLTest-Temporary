@@ -1,0 +1,5 @@
+Test Case protect.budgetwatch/.ImportExportActivity
+
+clicked  android.widget.Button protect.budgetwatch:id/importOptionFilesystemButton  FROM FILESYSTEM bounds:[44,1425][1036,1557]  Screen: states/state_20240411-185558.png
+
+Go to next activity: protect.budgetwatch/.MainActivity

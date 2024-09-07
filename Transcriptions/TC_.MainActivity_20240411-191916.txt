@@ -1,0 +1,5 @@
+The provided test case is for the MainActivity screen of the Budget Watch application. It includes the following action:
+1. Clicked on the "Import/Export" TextView item, which is likely a button or a menu option.
+After clicking on the "Import/Export" option, the test case proceeds to the next activity, which is "protect.budgetwatch/.ImportExportActivity".
+This test case verifies the functionality of the "Import/Export" feature in the Budget Watch application.
+If you have any other test cases or need further assistance, feel free to ask!

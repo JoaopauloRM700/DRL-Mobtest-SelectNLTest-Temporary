@@ -1,0 +1,5 @@
+Test Case protect.budgetwatch/.MainActivity
+
+clicked  android.widget.LinearLayout    bounds:[530,77][1069,209]  Screen: states/state_20240411-113751.png
+
+Go to next activity: protect.budgetwatch/.intro.IntroActivity

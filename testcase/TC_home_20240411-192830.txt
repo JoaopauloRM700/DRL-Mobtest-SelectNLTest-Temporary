@@ -1,0 +1,5 @@
+Test Case home
+
+Volume mute Pressed  Screen: states/state_20240411-192831.png
+
+Go to next activity: protect.budgetwatch/.intro.IntroActivity

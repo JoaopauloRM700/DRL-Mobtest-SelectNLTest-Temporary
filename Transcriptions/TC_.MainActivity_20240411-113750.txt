@@ -1,0 +1,9 @@
+Test Case ID: TC_20240411-113751
+Test Case: protect.budgetwatch/.MainActivity
+Description: Perform a click action on the specified LinearLayout in the MainActivity screen of the Budget Watch application and proceed to the next activity, which is "protect.budgetwatch/.intro.IntroActivity".
+Preconditions: The Budget Watch application is installed and open on the MainActivity screen.
+Test Steps:
+1. Clicked on the specified LinearLayout with the given bounds.
+2. Proceeded to the next activity, which is "protect.budgetwatch/.intro.IntroActivity".
+Result: N/A
+Screenshots: states/state_20240411-113751.png

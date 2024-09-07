@@ -1,0 +1,9 @@
+Test Case protect.budgetwatch/.intro.IntroActivity
+
+scroll left android.support.v4.view.ViewPager protect.budgetwatch:id/view_pager   bounds:[0,136][1440,2816]  Screen: states/state_20240411-192834.png
+
+clicked  android.widget.Button protect.budgetwatch:id/skip  SKIP bounds:[28,2897][378,3120]  Screen: states/state_20240411-192839.png
+
+long click center android.widget.ImageView  More options  bounds:[1300,150][1440,318]  Screen: states/state_20240411-192844.png
+
+Go to next activity: protect.budgetwatch/.MainActivity

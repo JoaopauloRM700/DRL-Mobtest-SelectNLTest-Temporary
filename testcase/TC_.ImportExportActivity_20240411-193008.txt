@@ -1,0 +1,49 @@
+Test Case protect.budgetwatch/.ImportExportActivity
+
+clicked  android.widget.Button protect.budgetwatch:id/dateRangeSelectButton  CHANGE DATE RANGE bounds:[56,1149][637,1317]  Screen: states/state_20240411-193011.png
+
+clicked  android.view.View  07 April 2024 7 bounds:[181,1416][335,1556]  Screen: states/state_20240411-193042.png
+
+clicked  android.view.View  06 April 2024 6 bounds:[1105,1276][1259,1416]  Screen: states/state_20240411-193110.png
+
+clicked  android.view.View  17 April 2024 17 bounds:[643,1556][797,1696]  Screen: states/state_20240411-193211.png
+
+clicked  android.view.View  14 April 2024 14 bounds:[181,1556][335,1696]  Screen: states/state_20240411-193249.png
+
+clicked  android.view.View  15 April 2024 15 bounds:[335,1556][489,1696]  Screen: states/state_20240411-193330.png
+
+clicked  android.view.View  29 April 2024 29 bounds:[335,1836][489,1976]  Screen: states/state_20240411-193343.png
+
+clicked  android.view.View  05 April 2024 5 bounds:[951,1276][1105,1416]  Screen: states/state_20240411-193413.png
+
+clicked  android.view.View  10 April 2024 10 bounds:[643,1416][797,1556]  Screen: states/state_20240411-193431.png
+
+clicked  android.view.View  27 April 2024 27 bounds:[1105,1696][1259,1836]  Screen: states/state_20240411-193459.png
+
+clicked  android.view.View  26 April 2024 26 bounds:[951,1696][1105,1836]  Screen: states/state_20240411-193540.png
+
+clicked  android.view.View  13 April 2024 13 bounds:[1105,1416][1259,1556]  Screen: states/state_20240411-193605.png
+
+clicked  android.view.View  02 April 2024 2 bounds:[489,1276][643,1416]  Screen: states/state_20240411-193629.png
+
+clicked  android.widget.ImageButton android:id/prev Previous month  bounds:[174,968][342,1136]  Screen: states/state_20240411-193649.png
+
+clicked  android.widget.TextView android:id/date_picker_header_year  2024 bounds:[167,637][351,759]  Screen: states/state_20240411-193719.png
+
+clicked  android.view.View  17 March 2024 17 bounds:[181,706][335,846]  Screen: states/state_20240411-193756.png
+
+clicked  android.view.View  24 March 2024 24 bounds:[181,846][335,986]  Screen: states/state_20240411-193832.png
+
+clicked  android.view.View  31 March 2024 31 bounds:[181,986][335,1126]  Screen: states/state_20240411-193847.png
+
+clicked  android.view.View  29 March 2024 29 bounds:[951,846][1105,986]  Screen: states/state_20240411-193857.png
+
+clicked  android.view.View  28 March 2024 28 bounds:[797,846][951,986]  Screen: states/state_20240411-193907.png
+
+clicked  android.view.View  20 March 2024 20 bounds:[643,706][797,846]  Screen: states/state_20240411-193917.png
+
+clicked  android.widget.TextView android:id/date_picker_header_year  2024 bounds:[167,1283][351,1405]  Screen: states/state_20240411-193931.png
+
+clicked  android.view.View  05 March 2024 5 bounds:[489,498][643,566]  Screen: states/state_20240411-194320.png
+
+clicked  android.view.View  13 March 2024 13 bounds:[643,566][797,706]  Screen: states/state_20240411-194734.png

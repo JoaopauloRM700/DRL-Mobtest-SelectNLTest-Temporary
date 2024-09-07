@@ -1,0 +1,5 @@
+Test Case protect.budgetwatch/.MainActivity
+
+clicked  android.widget.LinearLayout    bounds:[0,332][1440,561]  Screen: states/state_20240416-095750.png
+
+long click center android.widget.ImageView  More options  bounds:[1300,150][1440,318]  Screen: states/state_20240416-095757.png

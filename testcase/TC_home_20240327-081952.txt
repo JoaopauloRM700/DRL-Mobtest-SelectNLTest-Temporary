@@ -1,0 +1,3 @@
+Test Case home
+
+clicked  android.widget.LinearLayout    bounds:[0,220][1080,403]  Screen: states/state_20240327-081954.png

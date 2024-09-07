@@ -1,0 +1,15 @@
+Test Case ID: TC_protect.budgetwatch.MainActivity_20240416-144735
+Test Case: protect.budgetwatch/.MainActivity
+Description: Perform specific actions on the MainActivity screen of the Budgetwatch application.
+Preconditions: The Budgetwatch application is installed and the user is on the MainActivity screen.
+Test Steps:
+1. Clicked on the "Settings" TextView with the ID "action_settings".
+2. Clicked on a specific LinearLayout within the bounds [0,332][1440,561].
+3. Clicked on another specific LinearLayout within the bounds [740,150][1426,318].
+4. Proceeded to the next activity, which is "protect.budgetwatch/.intro.IntroActivity".
+Result: The specified actions were performed on the MainActivity screen, and the application transitioned to the IntroActivity screen.
+
+Screenshots:
+- Screen state after clicking on the "Settings" TextView: states/state_20240416-144722.png
+- Screen state after clicking on the first specific LinearLayout: states/state_20240416-144732.png
+- Screen state after clicking on the second specific LinearLayout: states/state_20240416-144735.png

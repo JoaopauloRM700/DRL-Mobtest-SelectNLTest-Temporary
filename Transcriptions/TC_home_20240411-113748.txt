@@ -1,0 +1,5 @@
+The provided test case is for the home screen and includes the following action:
+1. Long-clicked on the center of the "More options" ImageView.
+2. Proceeded to the next activity, which is "protect.budgetwatch/.MainActivity".
+
+If you need further assistance or want me to create a detailed test case, feel free to ask!

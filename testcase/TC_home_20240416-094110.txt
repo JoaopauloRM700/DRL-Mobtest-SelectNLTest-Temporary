@@ -1,0 +1,5 @@
+Test Case home
+
+clicked  android.widget.TextView protect.budgetwatch:id/action_settings Settings  bounds:[964,150][1132,318]  Screen: states/state_20240416-094112.png
+
+Go to next activity: protect.budgetwatch/.SettingsActivity

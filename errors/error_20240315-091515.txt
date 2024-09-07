@@ -1,0 +1,6 @@
+03-15 09:14:41.623   532  1127 E PackageManager: Unknown package: protect.budgetwatch
+03-15 09:14:41.653   532  1127 E PackageManager: Unknown package: protect.budgetwatch
+03-15 09:15:02.590   532   602 E VerityUtils: Failed to measure fs-verity, errno 1: /data/app/~~CZaQNrdByEWtgX-FGdAbNg==/protect.budgetwatch-mhI0vluFV50KrRuRtfHqhg==/base.apk
+03-15 09:15:15.223 10248 10587 E BudgetWatch: 	at protect.budgetwatch.ImportExportTask.performExport(ImportExportTask.java:87)
+03-15 09:15:15.223 10248 10587 E BudgetWatch: 	at protect.budgetwatch.ImportExportTask.doInBackground(ImportExportTask.java:129)
+03-15 09:15:15.223 10248 10587 E BudgetWatch: 	at protect.budgetwatch.ImportExportTask.doInBackground(ImportExportTask.java:14)

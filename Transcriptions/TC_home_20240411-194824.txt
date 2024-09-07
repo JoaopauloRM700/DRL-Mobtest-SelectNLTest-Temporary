@@ -1,0 +1,1 @@
+The provided test case involves clicking on the "More Options" ImageView on the home screen and then proceeding to the next activity, which is "protect.budgetwatch/.MainActivity".
